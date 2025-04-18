@@ -3,11 +3,13 @@
 
 1. When switing between devices, user will be prompted with this auto closing Overlay.
 Homepage will be visible automatically after 5 sec timer, users can opt to cancel it manually.
+Benefit - User have full control on switching between devices.
 
 - Primary Prompt (Desktop/Tab)
 ![Screenshot 2025-04-18 191726](https://github.com/user-attachments/assets/77c82a95-ee93-448e-a195-b775476461d0)
 
 2. After the prompt closes, user will have this last prompt at the top of the page. User can choose among Continuing or closing as per their need.
+Benefit - In case, if user had missed the primary prompt, they can still be able to continue via the secondary prompt. 
 
 - Secondary Prompt (Mobile)
 ![Screenshot 2025-04-18 191736](https://github.com/user-attachments/assets/c74e510f-fece-4c95-a0ae-be60b957204a)
