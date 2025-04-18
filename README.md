@@ -13,8 +13,12 @@ Benefit - User have full control on switching between devices.
 
 Benefit - In case, if user had missed the primary prompt, they can still be able to continue via the secondary prompt. 
 
-- Secondary Prompt (Mobile)
+- Secondary Prompt (Desktop/Tab)
 ![Screenshot 2025-04-18 201831](https://github.com/user-attachments/assets/a3928c92-fd69-4fe6-a153-e56eabe1b5a1)
+
+- Secondary Prompt (Desktop/Tab)
+![Screenshot 2025-04-18 202405](https://github.com/user-attachments/assets/47806abb-8c09-4a6a-ad5e-933d84cb406c)
+
 
 <h2> Attachments </h2>
 
