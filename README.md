@@ -1,5 +1,5 @@
 # Anand_YTNUM-02-
-<h2> An invisible but discoverable interface that allows users to instantly pick up a video where they left off, on any other device (TV, laptop, mobile), without friction or manual syncing. </h2>
+<h2> Device Handoff </h2>
 
 1. When switing between devices, user will be prompted with this auto closing Overlay.
 Homepage will be visible automatically after 5 sec timer, users can opt to cancel it manually.
