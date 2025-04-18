@@ -15,4 +15,5 @@ Homepage will be visible automatically after 5 sec timer, users can opt to cance
 <h2> Attachments </h2>
 
 Design File - https://www.figma.com/design/Emam072o8Lmnvcfn3buhRP/Anand_YTNUM--02-?node-id=0-1&t=iJI8ddCoyh86eM6r-1
+
 Figma Prototype - https://www.figma.com/proto/Emam072o8Lmnvcfn3buhRP/Anand_YTNUM--02-?page-id=0%3A1&node-id=6-2&viewport=132%2C146%2C0.29&t=biOPnQ5otoSKWQFS-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6%3A2&show-proto-sidebar=1
